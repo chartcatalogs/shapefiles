@@ -1,0 +1,33 @@
+{
+  "area_units": "m2",
+  "distance_units": "meters",
+  "ellipsoid": "EPSG:7030",
+  "inputs": {
+    "FIELDS_MAPPING": [
+      {
+        "alias": null,
+        "comment": null,
+        "expression": "x",
+        "length": 9,
+        "name": "x",
+        "precision": 0,
+        "sub_type": 0,
+        "type": 2,
+        "type_name": "integer"
+      },
+      {
+        "alias": null,
+        "comment": null,
+        "expression": "y",
+        "length": 9,
+        "name": "y",
+        "precision": 0,
+        "sub_type": 0,
+        "type": 2,
+        "type_name": "integer"
+      }
+    ],
+    "INPUT": "<INPUT>",
+    "OUTPUT": "<OUTPUT>"
+  }
+}
